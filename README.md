@@ -66,7 +66,7 @@ I am a results-driven data analyst with a strong foundation in SQL, Python, Powe
 ## 📬 Contact
 - **Email:** [abdelrhman.elkeshky@gmail.com](mailto:abdelrhman.elkeshky@gmail.com)
 - **LinkedIn:** [linkedin.com/in/abdelrhmanelkeshky](https://linkedin.com/in/abdelrhmanelkeshky)
-- **Portfolio:** [Portfolio Website](https://aboutabdelrahmanelkeshky.my.canva.site/dagrt-tf9om)
+- **Portfolio:** [Portfolio Website](https://abdelrahmanelkeshky.my.canva.site/portfolio)
 - **GitHub:** [github.com/abdelrahmanelkeshky](https://github.com/abdelrahmanelkeshky)
 
 ---
