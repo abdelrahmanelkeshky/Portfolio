@@ -21,7 +21,7 @@ I am a results-driven data analyst with a strong foundation in SQL, Python, Powe
 
 ## 📂 Featured Projects
 
-### 1. [Pizza Sales Analysis]([(https://github.com/abdelrahmanelkeshky/Pizza-Sales-Analysis])
+### 1. [Pizza Sales Analysis](https://github.com/abdelrahmanelkeshky/Pizza-Sales-Analysis)
    - **Tools:** SQL Server, Excel, Power BI
    - **Description:** Analyzed 50,000+ transactions to identify underperforming products, reducing options by 20% and increasing profitability.
    - **Outcome:** Designed an interactive Power BI dashboard to visualize sales performance across categories.
