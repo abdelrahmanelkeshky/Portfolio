@@ -1,4 +1,4 @@
-# Abdelrahman Elkeshky - Data Analyst / BI Analyst
+# Abdelrahman Elkeshky - Data Analyst
 
 Welcome to my portfolio repository! This space showcases my skills, projects, and achievements in the fields of data analysis and business intelligence. With hands-on experience analyzing real-world datasets and crafting interactive dashboards, I aim to deliver actionable insights to drive business growth.
 
