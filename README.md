@@ -68,7 +68,7 @@ I am a results-driven data analyst with a strong foundation in SQL, Python, Powe
 - **LinkedIn:** [linkedin.com/in/abdelrhmanelkeshky](https://linkedin.com/in/abdelrhmanelkeshky)
 - **Portfolio:** [Portfolio Website](https://abdelrahmanelkeshky.my.canva.site/portfolio)
 - **GitHub:** [github.com/abdelrahmanelkeshky](https://github.com/abdelrahmanelkeshky)
-- **WhatsApp:** [+201227638589](+201227638589)
+- **WhatsApp:** [+201227638589](https://wa.me/<+201227638589>)
 
 ---
 
