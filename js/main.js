@@ -188,20 +188,3 @@
 
 
 })(jQuery);
-
-
-// Loader safety fallback
-(function () {
-  function hideLoader() {
-    var loader = document.getElementById("ftco-loader");
-    if (loader) {
-      loader.classList.remove("show");
-      loader.style.display = "none";
-    }
-  }
-
-  window.addEventListener("load", hideLoader);
-
-  // Safety fallback: hide loader even if some asset/script fails
-  setTimeout(hideLoader, 3000);
-})();
